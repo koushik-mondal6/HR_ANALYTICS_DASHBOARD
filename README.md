@@ -32,7 +32,6 @@ Role & Tenure Tracking: Pinpoints high-turnover job roles, with Laboratory Techn
 
 Screenshots / Demos
 show what the dashboard looks like.
-Example: ![Dashboard preview].(https://github.com/koushik-mondal6/HR_ANALYTICS_DASHBOARD/blob/main/DASHBOARD.png).
-![Dashboard preview](DASHBOARD.png)
+Example:![Dashboard preview](DASHBOARD.png)
 
 
