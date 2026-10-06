@@ -31,6 +31,7 @@ Compensation & Education Trends: Breaks down turnover by educational background 
 Role & Tenure Tracking: Pinpoints high-turnover job roles, with Laboratory Technicians (62) and Sales Executives (57) leading the attrition count, while plotting turnover risk against total years spent at the company.
 
 Screenshots / Demos
-show what the dashboard looks like - https://github.com/koushik-mondal6/HR_ANALYTICS_DASHBOARD/blob/main/DASHBOARD.png
+show what the dashboard looks like.
+Example: ![Dashboard preview].(https://github.com/koushik-mondal6/HR_ANALYTICS_DASHBOARD/blob/main/DASHBOARD.png).
 
 
